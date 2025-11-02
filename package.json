@@ -1,0 +1,25 @@
+{
+  "name": "inventarios-inteligentes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TU_USUARIO/inventarios-inteligentes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TU_USUARIO/inventarios-inteligentes/issues"
+  },
+  "homepage": "https://github.com/TU_USUARIO/inventarios-inteligentes#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
